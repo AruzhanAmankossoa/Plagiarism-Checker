@@ -12,8 +12,9 @@ and not just copy tasks from the Internet, thus we will contribute to the prospe
 # How to use:
 1. Click on the .exe file
    or 
-   open the application from the command line:cd \your path\dist   
-					      start PlagiarismChecker
+   open the application from the command line:
+   cd \your path\dist   
+   start PlagiarismChecker
 2. Select a path(where your documents that you want to check are saved) using the button 'Browse'
 3. Save the result using the button 'Export a reslut to Excel'
 3.1 When you click, a new window opens that asks you where and how to save your result
